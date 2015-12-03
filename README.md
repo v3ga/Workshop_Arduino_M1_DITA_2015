@@ -2,6 +2,7 @@
 
 ## Groupe «plantes»
 ##### Liens
+* Diffractions transmutatoires — http://www.ghostlab.org/Transmutations2
 * Data garden — http://datagarden.org/
 * Midi sprout — https://www.kickstarter.com/projects/datagarden/midi-sprout-biodata-sonification-device
 
