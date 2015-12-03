@@ -9,6 +9,6 @@
 ##### Liens
 * Lamp North — http://www.creativeapplications.net/android/lamp-north-arduino-objects/
 
-## Groupe «maison algoritmique»
+## Groupe «maison algorithmique»
 ##### Liens
 * Eric Sadin — http://www.lechappee.org/la-vie-algorithmique
