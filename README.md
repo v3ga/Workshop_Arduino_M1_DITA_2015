@@ -10,6 +10,9 @@
 ##### Liens
 * Lamp North — http://www.creativeapplications.net/android/lamp-north-arduino-objects/
 
+* Compass.js — https://github.com/ai/compass.js
+* 
+
 ## Groupe «maison algorithmique»
 ##### Liens
 * Eric Sadin — http://www.lechappee.org/la-vie-algorithmique
