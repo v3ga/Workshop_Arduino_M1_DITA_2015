@@ -27,7 +27,12 @@ Grégory,Étienne,Pierre-Antonin,Winniver
 ## Groupe «lien familial»
 Cindy,Noélie,Victoria,Alison
 
+##### Envoi + réception SMS depuis Arduino
+* Receive SMS without responding — https://www.twilio.com/help/faq/sms/how-can-i-receive-sms-messages-without-responding
+* Adafruit SMS shield — https://learn.adafruit.com/adafruit-fona-800-shield?view=all
+
+ 
 ### Matériel
 * http://www.lextronic.fr/P36722-module-subminiature-wifi-wt8266-s1.html
-* 
+
 
