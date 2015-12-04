@@ -1,6 +1,7 @@
 # Objets électroniques de compagnie
 
 ## Groupe «plantes»
+Damien,Emma,Léo,Aidee
 ##### Liens
 * Diffractions transmutatoires — http://www.ghostlab.org/Transmutations2
 * Data garden — http://datagarden.org/
@@ -16,3 +17,10 @@ Marion, Justine, Abdel, Aude
 Aurore,Lauréline,Owenna,Alexandre
 ##### Liens
 * Eric Sadin — http://www.lechappee.org/la-vie-algorithmique
+
+## Groupe «robot de compagnie»
+Grégory,Étienne,Pierre-Antonin,Winniver
+
+## Groupe «lien familial»
+Cindy,Noélie,Victoria,Alison
+
