@@ -1,6 +1,8 @@
+// ----------------------------------------------
 import processing.serial.*;
 
 
+// ----------------------------------------------
 float timeScale = 60*5;
 float timeStart = 0;
 
@@ -8,12 +10,20 @@ int hourStart = 4;
 int minStart = 59;
 int secondStart = 0;
 
+Serial myPort;  // Create object from Serial class
+
+
+// ----------------------------------------------
 void setup()
 {
   size(600,600);
   timeStart = millis();
+
+  String portName = Serial.list()[0];
+  myPort = new Serial(this, portName, 9600);
 }
 
+// ----------------------------------------------
 void draw()
 {
   float t = hourStart * 3600 + minStart*60 + secondStart + (millis() - timeStart)/1000.0 * timeScale;  
@@ -38,17 +48,20 @@ void draw()
   text(nf(H,2)+"h "+nf(MN,2)+"mn " + nf(S,2)+"s",5,12);
 }
 
+// ----------------------------------------------
 int getHours(float s)
 {
   return int(s / 3600.0);
 }
 
+// ----------------------------------------------
 int getMinutes(float s)
 {
   s = s - 3600*getHours(s);
   return int(s / 60.0);
 }
 
+// ----------------------------------------------
 int getSeconds(float s)
 {
   s = s - 3600*getHours(s) - 60*getMinutes(s);
