@@ -7,6 +7,9 @@ Damien,Emma,Léo,Aidee
 * Data garden — http://datagarden.org/
 * Midi sprout — https://www.kickstarter.com/projects/datagarden/midi-sprout-biodata-sonification-device
 
+#### Libraries
+* https://github.com/morrissinger/ESP8266-Websocket
+
 ## Groupe «mémoire»
 Marion, Justine, Abdel, Aude
 ##### Liens
@@ -23,4 +26,8 @@ Grégory,Étienne,Pierre-Antonin,Winniver
 
 ## Groupe «lien familial»
 Cindy,Noélie,Victoria,Alison
+
+### Matériel
+* http://www.lextronic.fr/P36722-module-subminiature-wifi-wt8266-s1.html
+* 
 
