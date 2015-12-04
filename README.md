@@ -24,6 +24,9 @@ Aurore,Lauréline,Owenna,Alexandre
 ## Groupe «robot de compagnie»
 Grégory,Étienne,Pierre-Antonin,Winniver
 
+##### Liens
+* correctif fonction turn() — http://forum.arduino.cc/index.php?topic=272746.0
+
 ## Groupe «lien familial»
 Cindy,Noélie,Victoria,Alison
 
