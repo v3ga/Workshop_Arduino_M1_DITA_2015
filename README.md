@@ -11,6 +11,7 @@ Damien,Emma,Léo,Aidee
 * https://github.com/morrissinger/ESP8266-Websocket
 * https://github.com/Links2004/arduinoWebSockets
 * https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide
+* https://github.com/esp8266/Arduino
 
 ## Groupe «mémoire»
 Marion, Justine, Abdel, Aude
