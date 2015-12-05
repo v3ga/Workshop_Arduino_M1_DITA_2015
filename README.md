@@ -9,6 +9,7 @@ Damien,Emma,Léo,Aidee
 
 #### Libraries
 * https://github.com/morrissinger/ESP8266-Websocket
+* https://github.com/Links2004/arduinoWebSockets
 
 ## Groupe «mémoire»
 Marion, Justine, Abdel, Aude
