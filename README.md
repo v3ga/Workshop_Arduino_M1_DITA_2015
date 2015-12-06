@@ -39,6 +39,6 @@ Cindy,Noélie,Victoria,Alison
 
  
 ### Matériel
-* http://www.lextronic.fr/P36722-module-subminiature-wifi-wt8266-s1.html
+* Commande complémentaire : https://www.adafruit.com/wishlists/385837
 
 
