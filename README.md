@@ -39,6 +39,6 @@ Cindy,Noélie,Victoria,Alison
 
  
 ### Matériel
-* Commande complémentaire : https://www.adafruit.com/wishlists/385837
+* Commande complémentaire : http://master-design-bordeaux.fr/workshops/2015/materiel2_master.html
 
 
