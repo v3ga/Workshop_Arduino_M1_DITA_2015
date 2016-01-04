@@ -1,0 +1,67 @@
+//IMPORTS********************************************/
+
+@import "compass/css3";
+
+
+
+.logo {
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+#form {
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-size: 25px;
+	text-align: center;
+}
+
+.button {
+	background-color: $vert;
+	border-radius: 8px;
+	width: 300px;
+	font-family: $firamedium-stack;
+	font-size: 34px;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 0px 2px 1px $vert-dark;
+	margin-bottom: 25px;
+	margin-top: 25px;
+
+}
+
+.button:hover {
+	background-color: $vert-light!important;
+}
+
+.text {
+	text-align:center;
+	font-family: $firalight_stack;
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+.help {
+	text-align:center;
+	font-family: $firalight_stack;
+	font-size: 20px;
+}
+
+.info-spam{
+	background: lighten(grey, 40%);
+	padding-top: 25px;
+
+}
+
+.question {
+	width: 70px;
+	display: block;
+	margin: 0 auto;
+}
+
+.toutenbas {
+	margin-top: 100px;
+
+}
